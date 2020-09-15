@@ -1,0 +1,6 @@
+server:
+  port: 80
+
+currency-layer:
+  uri: http://apilayer.net/api/live
+  access_key: 4f68d73ecafdffbacca77e60d32bb2a7
